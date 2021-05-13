@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning React and it's frameworks.
 
 ### 👯 Other interest
-  ✔️ I like to do Graphite Sketching 
+  ✔️ I love to do Graphite Sketching. Find my some of the sketches here [Instagram](https://www.instagram.com/mr_artist_hrd/)
 
 ### 📫 How to reach me:
   ✔️ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-dwivedi-861205112/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/himansh03285202)
