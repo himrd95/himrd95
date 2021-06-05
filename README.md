@@ -5,11 +5,8 @@
 
 <h2 align="center">Currently working in <a href="https://www.masaischool.com/">Masai School</a> as an Instructional Associate. building new and delightful open-source products, with the community, for the community.</h2>
 
-<p align='center'>
 ### Skilled in 
-
 [![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; [![Redux Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc)](#) &nbsp; [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857)](#) &nbsp; [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-409142?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=409142)](#)
-</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=himrd95&show_icons=true&count_private=true&theme=radical" width="500"></a>
