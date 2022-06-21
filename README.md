@@ -1,4 +1,4 @@
-<h1 align="center" valign="center">Hi there! I'm Himanshu Dwivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
+<h1 align="center">Hi there! I'm Himanshu Dwivedi <img width="50" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 
 <h2 align="center">Though I graduated in Mechanical Engineering, I aspire to work as a programmer.</h2>
 
